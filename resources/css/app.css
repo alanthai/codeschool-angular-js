@@ -1,0 +1,53 @@
+
+.store{
+  max-width: 500px;
+}
+
+.thumbnails{
+    width: 180px;
+    margin:0 auto;
+}
+
+.small-image{
+    width:50px;
+}
+
+.selected{
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.thumbnails li{
+    padding: 7.5px;
+}
+.thumbnails li:first-child{
+    padding-left: 0;
+}
+
+.thumbnails li:last-child{
+    padding-right: 0;
+}
+
+/*
+.thumbnails{
+    width:184px;
+    margin:0 auto;
+    padding: 0;
+    text-align: center;
+}
+
+.thumbnails .gem-thumbnail{
+  display: inline-block;
+  width:29%;
+  margin: 5px;
+}
+
+.thumbnails .gem-thumbnail img{
+    width:100%;
+    height: auto;
+}
+
+
+
+*/
