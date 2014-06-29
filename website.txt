@@ -1,0 +1,4 @@
+https://github.com/Ed-Lee/GemStore
+https://github.com/search?q=gemstore&ref=cmdform
+
+http://campus.codeschool.com/courses/shaping-up-with-angular-js/contents
